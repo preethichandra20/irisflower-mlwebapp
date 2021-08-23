@@ -12,3 +12,5 @@ pandas>=0.19
 flasgger==0.9.4
 Pillow==7.1.2
 streamlit
+distribute==0.6.24
+setuptools==0.7.3
