@@ -14,4 +14,4 @@ flasgger==0.9.4
 Pillow==7.1.2
 streamlit
 distribute==0.6.28
-setuptools==1.0
+setuptools==65.5.1
